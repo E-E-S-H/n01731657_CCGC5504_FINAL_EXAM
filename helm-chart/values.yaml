@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: eeshulu/n01731657-nginx-app
-  tag: latest
+  tag: 030c5cb
   pullPolicy: Always
 
 nameOverride: ""
